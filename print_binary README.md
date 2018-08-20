@@ -2,7 +2,7 @@
 
 print_binary program prints the binary representation of an integer.
 
-Example of standard's bin function output:
+Example of standard bin function output:
 ```
 0b1000 # for 8 as input
 0b1010 # for 10 as input
