@@ -1,9 +1,7 @@
 from sys import argv
 
 def ft_cat(fn):
-	'''
-Reproduction of the cat function, without extra options.
-'''
+	'''Reproduction of the cat function, without extra options.'''
 	with open(fn, 'r') as fd:
 		print(fd.read(), end = '')
 
