@@ -31,7 +31,4 @@ Unlike standard bin function, true_bin handles negative numbers.
 
 	return (''.join(str))
 
-nb = 42
-nb = (~nb + 1)
-print(bin(nb))
 print(true_bin(argv[1]))
